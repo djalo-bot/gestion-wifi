@@ -1,0 +1,13 @@
+# Flutter/Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android signing material
+android/key.properties
+android/app/*.jks
+android/app/*.keystore
